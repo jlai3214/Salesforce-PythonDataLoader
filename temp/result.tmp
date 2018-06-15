@@ -1,0 +1,4 @@
+"Id","Success","Created","Error"
+"","false","false","MALFORMED_ID:Item Specification: id value of incorrect type: #AAUblm5000000I1U1a:Item_Specification__c --"
+"","false","false","INVALID_FIELD_FOR_INSERT_UPDATE:Unable to create/update fields: Units_per_Pallet__c. Please check the security settings of this field and verify that it is read/write for your profile or permission set.:Units_per_Pallet__c --"
+"","false","false","INVALID_FIELD_FOR_INSERT_UPDATE:Unable to create/update fields: Units_per_Pallet__c. Please check the security settings of this field and verify that it is read/write for your profile or permission set.:Units_per_Pallet__c --"

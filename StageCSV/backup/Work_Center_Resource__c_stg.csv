@@ -1,0 +1,3 @@
+Id,OwnerId,IsDeleted,Name,CreatedDate,CreatedById,LastModifiedDate,LastModifiedById,SystemModstamp,Company__c,ExtId__c,Facility__c,Manufacturing_Calendar__c,Quantity_Available__c,Resource__c,Work_Center_Resource_Unique__c,Work_Center__c
+,,,WCResource A-1,,,,,,a0g1I0000005btXQAQ,&YAUCM0c000000I1B3a,a181I0000005o7FQAQ,,1.0,a2T1I000000AkgMUAS,,a3C1I000000TskHUAS
+,,,WCResource A-2,,,,,,a0g1I0000005btXQAQ,&YAUHM0c000000I1B3a,a181I0000005o7FQAQ,,1.0,a2T1I000000AkgRUAS,,a3C1I000000TskMUAS

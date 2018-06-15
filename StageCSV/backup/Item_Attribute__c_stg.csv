@@ -1,0 +1,2 @@
+Id,OwnerId,IsDeleted,Name,CreatedDate,CreatedById,LastModifiedDate,LastModifiedById,SystemModstamp,LastViewedDate,LastReferencedDate,Date_Received__c,Expiration_Date__c,ExtId__c,Fixed_Asset__c,License_Plate_Number__c,Lot_Number__c,Minimum_Shelf_Life_In_Days__c,Rental__c,Serial_Number__c,Used__c
+,,,Lot Tracked,,,,,,,,False,False,&CAUop6I000000I1R1a,False,False,True,False,False,False,False

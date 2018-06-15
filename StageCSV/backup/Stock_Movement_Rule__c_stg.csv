@@ -1,0 +1,2 @@
+Id,OwnerId,IsDeleted,Name,CreatedDate,CreatedById,LastModifiedDate,LastModifiedById,SystemModstamp,LastViewedDate,LastReferencedDate,Active__c,Class__c,Company__c,Container_Package_Class__c,Customer__c,ExtId__c,Facility__c,Item__c,Location_List__c,Location__c,Packaging_UOM__c,Priority__c,Rule_Type__c,Sequence__c,Source_Document__c,Source_Location__c,Unique_Key__c
+,,,SO-Pick,,,,,,,,True,,a0g1I0000005btXQAQ,,,&GAQ0lHM000000I1m2a,a181I0000005o7FQAQ,,"[""a1d1I000000UDxuQAG""]",a1d1I000000UDxuQAG,,1.0,Pick,,Sales Order,,

@@ -1,0 +1,21 @@
+Id,OwnerId,IsDeleted,Name,CreatedDate,CreatedById,LastModifiedDate,LastModifiedById,SystemModstamp,LastActivityDate,LastViewedDate,LastReferencedDate,Account_Range_From__c,Account_Range_To__c,Accounting_Type__c,ExtId__c,Normal_Balance__c,Primary_Key__c,Statement_Type__c
+,,,Cost of Sales,,,,,,,,,,,Cost of Goods Sold,&AAUsgl1000000I1J1a,Debit,,Income Statement
+,,,Travel and Entertainment,,,,,,,,,,,Operating Expenses,&AAUvgl1000000I1J1a,Debit,,Income Statement
+,,,Capital & Retained Earnings,,,,,,,,,,,Equity,&AAUqgl1000000I1J1a,Credit,,Balance Sheet
+,,,Sales,,,,,,,,,,,Revenue,&AAUrgl1000000I1J1a,Credit,,Income Statement
+,,,Payroll,,,,,,,,,,,Operating Expenses,&AAUtgl1000000I1J1a,Debit,,Income Statement
+,,,Insurance Expense,,,,,,,,,,,Operating Expenses,&AAUygl1000000I1J1a,Debit,,Income Statement
+,,,Long-Term Assets,,,,,,,,,,,Assets,&AAUngl1000000I1J1a,Debit,,Balance Sheet
+,,,Selling Expense,,,,,,,,,,,Operating Expenses,&AAUxgl1000000I1J1a,Debit,,Income Statement
+,,,Current Liabilities,,,,,,,,,,,Liabilities,&AAUogl1000000I1J1a,Credit,,Balance Sheet
+,,,Taxes and Licenses,,,,,,,,,,,Operating Expenses,&AAU2hl1000000I1J1a,Debit,,Income Statement
+,,,Depreciation / Amortization,,,,,,,,,,,Operating Expenses,&AAU1hl1000000I1J1a,Debit,,Income Statement
+,,,Employee Benefits,,,,,,,,,,,Operating Expenses,&AAUugl1000000I1J1a,Debit,,Income Statement
+,,,Long-Term Liabilities,,,,,,,,,,,Liabilities,&AAUpgl1000000I1J1a,Credit,,Balance Sheet
+,,,Current Assets,,,,,,,,,,,Assets,&AAUmgl1000000I1J1a,Debit,,Balance Sheet
+,,,Other Income,,,,,,,,,,,Other Income (Expense),&AAU4hl1000000I1J1a,Credit,,Income Statement
+,,,Professional Fees,,,,,,,,,,,Operating Expenses,&AAUzgl1000000I1J1a,Debit,,Income Statement
+,,,Income Tax Expense,,,,,,,,,,,Tax Provision (Benefit),&AAU5hl1000000I1J1a,Debit,,Income Statement
+,,,Other Administrative Expense,,,,,,,,,,,Operating Expenses,&AAU0hl1000000I1J1a,Debit,,Income Statement
+,,,Other Operating Expense,,,,,,,,,,,Operating Expenses,&AAUwgl1000000I1J1a,Debit,,Income Statement
+,,,Other Expenses,,,,,,,,,,,Other Income (Expense),&AAU3hl1000000I1J1a,Debit,,Income Statement

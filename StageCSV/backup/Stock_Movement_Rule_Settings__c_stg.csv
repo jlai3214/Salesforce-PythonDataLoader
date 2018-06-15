@@ -1,0 +1,18 @@
+Id,IsDeleted,Name,SetupOwnerId,CreatedDate,CreatedById,LastModifiedDate,LastModifiedById,SystemModstamp,ExtId__c,Source_Document_Path_Putaway__c,Source_Document_Path__c,Source_Document__c,Stock_Movement_Rule_Field__c
+,,Purchase Order-Class__c,,,,,,,&OAQsAHQ000000I1l2a,Item__r.Class__c,Item__r.Class__c,Purchase Order,Class__c
+,,Purchase Order-Company__c,,,,,,,&OAQtAHQ000000I1l2a,Company__c,Company__c,Purchase Order,Company__c
+,,Purchase Order-Facility__c,,,,,,,&OAQuAHQ000000I1l2a,Delivery_Facility__c,Delivery_Facility__c,Purchase Order,Facility__c
+,,Purchase Order-Item__c,,,,,,,&OAQvAHQ000000I1l2a,Item__c,Item__c,Purchase Order,Item__c
+,,Work Order-Class__c,,,,,,,&OAQwAHQ000000I1l2a,Item__r.Class__c,Item__r.Class__c,Work Order,Class__c
+,,Work Order-Company__c,,,,,,,&OAQxAHQ000000I1l2a,Work_Order__r.Company__c,Work_Order__r.Company__c,Work Order,Company__c
+,,Work Order-Facility__c,,,,,,,&OAQyAHQ000000I1l2a,Work_Order__r.Facility__c,Work_Order__r.Facility__c,Work Order,Facility__c
+,,Work Order-Item__c,,,,,,,&OAQzAHQ000000I1l2a,Item__c,Item__c,Work Order,Item__c
+,,Transfer Order-Company__c,,,,,,,&OAQ0BHQ000000I1l2a,Receiving_Company__c,Shipping_Company__c,Transfer Order,Company__c
+,,Transfer Order-Facility__c,,,,,,,&OAQ1BHQ000000I1l2a,Deliver_To_Facility__c,Ship_From_Facility__c,Transfer Order,Facility__c
+,,Sales Order-Facility__c,,,,,,,&OAQ2BHQ000000I1l2a,Ship_from_location__r.facility__c,Ship_From_Location__r.Facility__c,Sales Order,Facility__c
+,,Sales Order-Company__c,,,,,,,&OAQ3BHQ000000I1l2a,Company__c,Company__c,Sales Order,Company__c
+,,Transfer Order-Item__c,,,,,,,&OAQ4BHQ000000I1l2a,Receiving_Item__c,Shipping_Item__c,Transfer Order,Item__c
+,,Receiving Document-Class__c,,,,,,,&OAQ5BHQ000000I1l2a,Item__r.Class__c,Item__r.Class__c,Receiving Document,Class__c
+,,Receiving Document-Company__c,,,,,,,&OAQ6BHQ000000I1l2a,Company__c,Company__c,Receiving Document,Company__c
+,,Receiving Document-Facility__c,,,,,,,&OAQ7BHQ000000I1l2a,Facility__c,Facility__c,Receiving Document,Facility__c
+,,Receiving Document-Item__c,,,,,,,&OAQ8BHQ000000I1l2a,Item__c,Item__c,Receiving Document,Item__c

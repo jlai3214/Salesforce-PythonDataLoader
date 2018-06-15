@@ -1,0 +1,2 @@
+Id,OwnerId,IsDeleted,Name,CreatedDate,CreatedById,LastModifiedDate,LastModifiedById,SystemModstamp,LastViewedDate,LastReferencedDate,Active__c,Autonumber__c,Budget_Tax__c,Currency_From__c,Currency_To__c,Daily_Monthly__c,Exchange_Rate_Type__c,ExtId__c,From_Currency__c,Multiplier_Exchange_Rate__c,Rate_End_DateTime__c,Rate_Start_DateTime__c,To_Currency__c
+,,,ER-0000000001,,,,,,,,True,0000000001,False,,,Daily,Corporate,&2AQKMAa000000I141a,a0q1I000001M8bWQAS,0.85,,2017-01-01T21:13:00.000+0000,a0q1I000001M8bLQAS

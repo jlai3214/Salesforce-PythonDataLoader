@@ -1,0 +1,3 @@
+Id,OwnerId,IsDeleted,Name,CreatedDate,CreatedById,LastModifiedDate,LastModifiedById,SystemModstamp,LastViewedDate,LastReferencedDate,ExtId__c,FOB_Point__c,Freight__c
+,,,FOB ORIGIN,,,,,,,,&IAQwSx1000000I151a,Origin,False
+,,,FOB DESTINATION,,,,,,,,&IAQvSx1000000I151a,Destination,False

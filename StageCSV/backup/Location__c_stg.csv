@@ -1,0 +1,5 @@
+Id,IsDeleted,Name,CreatedDate,CreatedById,LastModifiedDate,LastModifiedById,SystemModstamp,LastViewedDate,LastReferencedDate,Facility__c,Bin_Tracked__c,Default_Max_Capacity__c,Description__c,ExtId__c,Facility_Identifier__c,Location_Facility__c,Mixed_Bins_Allowed__c,Nettable__c,Primary_Key__c,Track_Bin_Capacity__c
+,,PO Receiving CA,,,,,,,,a181I0000005o7FQAQ,False,,PO Receiving CA,&GAQtxDU000000I1d1a,,PO Receiving CA-KNDY-CA-Kenandy USA,True,False,,False
+,,FG Stock CA,,,,,,,,a181I0000005o7FQAQ,True,,FG Stock CA,&GAQuxDU000000I1d1a,,FG Stock CA-KNDY-CA-Kenandy USA,False,True,,True
+,,Shipping Dock CA,,,,,,,,a181I0000005o7FQAQ,False,,Shipping Dock CA,&GAQvxDU000000I1d1a,,Shipping Dock CA-KNDY-CA-Kenandy USA,False,True,,True
+,,Quarantine / Inspection CA,,,,,,,,a181I0000005o7FQAQ,False,,Quarantine / Inspection CA,&GAQwxDU000000I1d1a,,Quarantine / Inspection CA-KNDY-CA-Kenandy USA,False,False,,True

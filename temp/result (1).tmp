@@ -1,0 +1,3 @@
+"Id","Success","Created","Error"
+"","false","false","DUPLICATE_VALUE:duplicate value found: ExtId__c duplicates value on record with id: a0g1I000000uOIY:--"
+"","false","false","INSUFFICIENT_ACCESS_ON_CROSS_REFERENCE_ENTITY:insufficient access rights on cross-reference id: a0W1I000000AfZW:--"

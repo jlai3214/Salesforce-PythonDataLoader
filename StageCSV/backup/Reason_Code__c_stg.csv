@@ -1,0 +1,6 @@
+Id,OwnerId,IsDeleted,Name,CreatedDate,CreatedById,LastModifiedDate,LastModifiedById,SystemModstamp,LastActivityDate,LastViewedDate,LastReferencedDate,Category__c,Code__c,Company_Identifier__c,Company__c,Description__c,ExtId__c,GL_Account__c,Numeric_Field_1__c,Primary_Key__c,Reason_Code_Unique__c,Subcategory__c,Type__c
+,,,Claim repayment,,,,,,,,,,,,,,&OAU3VCJ000000I1H2a,,,,,,Resolution
+,,,Write off claim,,,,,,,,,,WOC,,a0g1I0000005btXQAQ,For use in writing off a claim that is below the investigation amount,&GAUsjDI000000I1H2a,a1I1I0000001kOhUAI,,,,,Resolution
+,,,Cycle Count,,,,,,,,,,CC,,a0g1I0000005btXQAQ,,&0AUWY6I000000I1H2a,,,,,,Cycle Count
+,,,Short Payment,,,,,,,,,,,,a0g1I0000005btXQAQ,For use in recording a miscellaneous invoice deduction on a customer receipt,&CAU3z5I000000I1H2a,a1I1I0000001kNmUAI,,,,,Deductions
+,,,Courtesy Discount,,,,,,,,,,GD,,a0g1I0000005btXQAQ,For use in recording a general deduction on a customer receipt,&CAUjy5I000000I1H2a,a1I1I0000001kNnUAI,,,,,Deductions

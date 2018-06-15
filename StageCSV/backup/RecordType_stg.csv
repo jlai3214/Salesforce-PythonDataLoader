@@ -1,0 +1,10 @@
+Id,Name,DeveloperName,NamespacePrefix,Description,BusinessProcessId,SobjectType,IsActive,CreatedById,CreatedDate,LastModifiedById,LastModifiedDate,SystemModstamp
+,Catalog,Catalog,KSPRING17,For items approved in the catalog,,KSPRING17__Cart_Line__c,True,,,,,
+,Request Item,Request_Item,KSPRING17,Item that needs to be clarified by the buyer before being approved for PO,,KSPRING17__Cart_Line__c,True,,,,,
+,Bill To,Bill_To,KSPRING17,Customer location that receives invoices,,KSPRING17__Customer__c,True,,,,,
+,Corporate Parent,Corporate_Parent,KSPRING17,"Top of the customer hierarchy, owns or controls related customer records",,KSPRING17__Customer__c,True,,,,,
+,Ship To,Ship_To,KSPRING17,Customer location that receives shipments,,KSPRING17__Customer__c,True,,,,,
+,Site,Site,KSPRING17,,,KSPRING17__Customer__c,True,,,,,
+,Sold To,Sold_To,KSPRING17,Customer location that places orders,,KSPRING17__Customer__c,True,,,,,
+,Purchase From,Purchase_From,KSPRING17,Supplier that you purchase from,,KSPRING17__Supplier__c,True,,,,,
+,Remit To,Remit_To,KSPRING17,Supplier that receives payments,,KSPRING17__Supplier__c,True,,,,,

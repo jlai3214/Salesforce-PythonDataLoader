@@ -1,0 +1,5 @@
+Id,IsDeleted,Name,CreatedDate,CreatedById,LastModifiedDate,LastModifiedById,SystemModstamp,Assembly_Item_Specification__c,Allocate_on_Receipt__c,Allocation_Required__c,Assembly_Item_Spec_Name__c,Assembly_Revision__c,Autonumber__c,Company__c,Component_Item__c,Component_Sequence__c,Component_Stocking_UOM__c,Configuration_Type__c,ExtId__c,Primary_Key__c,Quantity_per_Assembly__c,Reference__c,Routing_Operation_Sequence__c,Routing_Sequence__c,Routing__c,Supplier__c,Type__c,Yield__c
+,,CP-0000000002,,,,,,a1U1I000000KhVXUA0,False,False,,,,a0g1I000000ue07QAA,a1V1I000000KE1jUAG,1.0,,,&AAQway5000000I1h0a,,1.0,,,,a2V1I000000ZwxHUAS,,Kit,100.0
+,,CP-0000000003,,,,,,a1U1I000000KhVXUA0,False,False,,,,a0g1I000000ue07QAA,a1V1I000000KE1kUAG,1.0,,,&AAQxay5000000I1h0a,,30.0,,,,a2V1I000000ZwxHUAS,,Kit,100.0
+,,CP-0000000004,,,,,,a1U1I000000KhVXUA0,False,False,,,,a0g1I000000ue07QAA,a1V1I000000KE1mUAG,2.0,,,&AAQyay5000000I1h0a,,1.0,,,,a1w1I000000NtQ1QAKUeaG9000000I1V2a,,Kit,100.0
+,,CP-0000000001,,,,,,a1U1I000000KhVXUA0,False,False,,,,a0g1I000000ue07QAA,a1V1I000000KE1lUAG,1.0,,,&AAQray5000000I1h0a,,10.0,,,,a2V1I000000ZwxHUAS,,Kit,100.0

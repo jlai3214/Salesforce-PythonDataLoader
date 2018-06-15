@@ -1,0 +1,2 @@
+Id,OwnerId,IsDeleted,Name,CreatedDate,CreatedById,LastModifiedDate,LastModifiedById,SystemModstamp,LastViewedDate,LastReferencedDate,Accrue_To__c,Allowance_Code__c,Allowance_Rule_Unique_Key__c,Allowance_Type__c,Beneficiary__c,Customer2__c,Customer_Group__c,Customer_Hierarchy__c,End_Customer__c,End_Date__c,ExtId__c,Pricebook__c,Product_Group__c,Product_Hierarchy__c,Product__c,Sales_Order_Type__c,Start_Date__c
+,,,Std-2% discount,,,,,,,,,,,a0I1I000000sULQUA2,,,,,,2018-01-01,&OAU3FUR200000I1H0a,,,,,Standard,2017-01-01

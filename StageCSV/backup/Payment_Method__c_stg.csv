@@ -1,0 +1,4 @@
+Id,OwnerId,IsDeleted,Name,CreatedDate,CreatedById,LastModifiedDate,LastModifiedById,SystemModstamp,LastActivityDate,Bank_Account__c,ExtId__c,Payment_Method_ID__c,Payment_Profile__c,Type__c
+,,,Card XXXX1881/11-2019,,,,,,,,&KAQbU2J000000I1z1a,1808220971,a201I000000DKxHQAW,Credit Card
+,,,Card XXXX1111,,,,,,,,&0AQWU2J000000I1z1a,1808220953,a201I000000DKxHQAW,Credit Card
+,,,Card XXXX4444/09-2020,,,,,,,,&KAQgU2J000000I1z1a,1808221119,a201I000000DKxMQAW,Credit Card

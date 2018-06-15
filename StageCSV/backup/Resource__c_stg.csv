@@ -1,0 +1,4 @@
+Id,OwnerId,IsDeleted,Name,CreatedDate,CreatedById,LastModifiedDate,LastModifiedById,SystemModstamp,LastViewedDate,LastReferencedDate,Company__c,Description__c,ExtId__c,Facility__c,Rate__c,Resource_Unique__c,Type__c
+,,,R-1,,,,,,,,a0g1I0000005btXQAQ,,&SAUMgkA000000I1T2a,a181I0000005o7FQAQ,,,
+,,,R-3,,,,,,,,a0g1I0000005btXQAQ,,&SAUWgkA000000I1T2a,a181I0000005o7FQAQ,,,
+,,,R-2,,,,,,,,a0g1I0000005btXQAQ,,&SAURgkA000000I1T2a,a181I0000005o7FQAQ,,,

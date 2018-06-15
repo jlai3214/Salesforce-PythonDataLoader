@@ -1,0 +1,4 @@
+Id,OwnerId,IsDeleted,Name,CreatedDate,CreatedById,LastModifiedDate,LastModifiedById,SystemModstamp,LastViewedDate,LastReferencedDate,Always_Take_Discount__c,Cut_Off_Day__c,Day_Of_Month__c,Description__c,Discount_Days__c,Discount_Percent__c,Due_Days__c,ExtId__c,Months_Ahead__c,Payment_Term_Unique__c,Type__c
+,,,Net 15,,,,,,,,False,,,Net due in 15 days,0.0,0.0,15.0,&CAQa1yU000000I112a,0.0,,Due Days
+,,,2/10 Net 30,,,,,,,,False,,,"2% discount in 10 Days, net due in 30",10.0,2.0,30.0,&CAQb1yU000000I112a,0.0,,Due Days
+,,,Net 25th,,,,,,,,False,20.0,25.0,Net due 25th of every month,0.0,0.0,0.0,&CAQc1yU000000I112a,0.0,,Due Day Of Month

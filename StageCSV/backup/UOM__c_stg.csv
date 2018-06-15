@@ -1,0 +1,8 @@
+Id,OwnerId,IsDeleted,Name,CreatedDate,CreatedById,LastModifiedDate,LastModifiedById,SystemModstamp,LastViewedDate,LastReferencedDate,Description__c,Every__c,ExtId__c,Package_Class__c,Recurrence__c,Scale__c,Type__c,UOM_Unique__c
+,,,EA,,,,,,,,Each,,&KAQbY9H000000I193a,a1w1I000000Ay5pQAC,,,Quantity,
+,,,CS,,,,,,,,Case,,&KAQcY9H000000I193a,a1w1I000000Ay5uQAC,,,Quantity,
+,,,PT,,,,,,,,Pallet,,&KAQdY9H000000I193a,a1w1I000000Ay5kQAC,,,Quantity,
+,,,BX,,,,,,,,Box,,&KAQeY9H000000I193a,,,,Quantity,
+,,,PK,,,,,,,,Pack,,&KAQfY9H000000I193a,,,,Quantity,
+,,,DZ,,,,,,,,Dozen,,&KAQgY9H000000I193a,,,,Quantity,
+,,,LB,,,,,,,,Pounds,,&KAQhY9H000000I193a,,,,Weight,

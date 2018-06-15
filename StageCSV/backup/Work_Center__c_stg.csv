@@ -1,0 +1,4 @@
+Id,OwnerId,IsDeleted,Name,CreatedDate,CreatedById,LastModifiedDate,LastModifiedById,SystemModstamp,LastViewedDate,LastReferencedDate,Company__c,Description__c,ExtId__c,Facility__c,Manufacturing_Calendar__c,Work_Center_Unique__c
+,,,Assembly 3,,,,,,,,a0g1I0000005btXQAQ,Assembly,&SAURksT000000I1C3a,a181I0000005o7FQAQ,,
+,,,Assembly 2,,,,,,,,a0g1I0000005btXQAQ,Assembly,&SAUMksT000000I1C3a,a181I0000005o7FQAQ,,
+,,,Assembly 1,,,,,,,,a0g1I0000005btXQAQ,Assembly,&SAUHksT000000I1C3a,a181I0000005o7FQAQ,,

@@ -1,0 +1,4 @@
+Id,IsDeleted,Name,SetupOwnerId,CreatedDate,CreatedById,LastModifiedDate,LastModifiedById,SystemModstamp,Accounting_Entry_Field__c,Accounting_Rule_Default__c,Accounting_Rule_Reference_Value__c,Accounting_Rule_Segment__c,Display_Order__c,ExtId__c,Object_API_Name__c,Segment_Number__c
+,,Company__c,,,,,,,Company__c,,,,1.0,&0AUVUnP000000I1Z2a,Company__c,1.0
+,,GL_Account__c,,,,,,,GL_Account__c,Default_GL_Account__c,GL_Account_Reference_Value__c,GL_Account__c,2.0,&0AUWUnP000000I1Z2a,GL_Account__c,2.0
+,,Intercompany__c,,,,,,,Intercompany__c,Default_Intercompany__c,Intercompany_Reference_Value__c,Intercompany__c,10.0,&0AUXUnP000000I1Z2a,Intercompany__c,9.0
